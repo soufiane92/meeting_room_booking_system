@@ -8,8 +8,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 Here we write upgrading notes for brands. It's a team effort to make them as
 straightforward as possible.
- 
+
 ## [0.0.2dev] - 2025-07-22
+  
+Implement core models.
+ 
+### Added
+
+- Related issue: [meeting-system-issue3](https://github.com/soufiane92/meeting_room_booking_system/issues/3)
+- Related pull request: [meeting-system-pr4](https://github.com/soufiane92/meeting_room_booking_system/pull/4)
+ 
+## [0.0.1dev] - 2025-07-22
   
 Add Ruff linter to the project.
  
