@@ -1,0 +1,5 @@
+# include main requirements file
+-r requirements_project.txt
+
+# requirements for linting and formatting
+ruff==0.12.4
